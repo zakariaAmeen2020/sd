@@ -28,6 +28,10 @@
     "unop-react-dropdown": "^0.2.3",
     "web-vitals": "^2.1.4"
   },
+
+"overrides": {
+    "@svgr/webpack": "$@svgr/webpack"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
